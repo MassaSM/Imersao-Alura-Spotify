@@ -1,4 +1,4 @@
-<h2>Spotify Web Interface</h2>
+<h2><img src="https://massasm.github.io/Imersao-Alura-Spotify/src/assets/icons/favicon.png"> Spotify Web Interface</h2>
 Este projeto é uma interface de usuário web inspirada no layout do Spotify, implementada em HTML, CSS e JavaScript.
 
 <h2>Introdução</h2>
