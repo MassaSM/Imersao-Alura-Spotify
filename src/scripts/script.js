@@ -66,10 +66,3 @@ document.addEventListener('input', function() {
   }
   requestApi(searchTerm);
 })
-
-const corsOptions = {
-    origin: 'https://jaazielbrasil.github.io/Spotify/',
-    optionsSuccessStatus: 200,
-};
-  
-app.use(cors(corsOptions));
