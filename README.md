@@ -12,3 +12,10 @@ Bem-vindo à Spotify Web Interface! Este projeto foi desenvolvido durante a Imer
 </ul>
 <h2>Autor</h2>
 Nome do dev: Mateus Silva Massariol - Desenvolvedor Frontend
+<style type="text/css">
+h2 {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+</style>
