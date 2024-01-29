@@ -2,7 +2,7 @@
 Este projeto é uma interface de usuário web inspirada no layout do Spotify, implementada em HTML, CSS e JavaScript.
 
 <h2>🔥 Introdução</h2>
-Bem-vindo à Spotify Web Interface! Este projeto foi desenvolvido durante a Imersão Front-end na Alura, um evento que proporciona uma intensiva experiência de aprendizado em desenvolvimento web. O objetivo é fornecer uma experiência semelhante à interface do usuário do Spotify, com recursos básicos de navegação e visualização de playlists. Aproveite para explorar diferentes seções e descobrir novas músicas!
+Bem-vindo à Spotify Web Interface! Este projeto foi desenvolvido durante a Imersão Front-end na Alura, um evento que proporciona uma intensiva experiência de aprendizado em desenvolvimento web. O objetivo é fornecer uma experiência semelhante à interface do usuário do Spotify, com recursos básicos de navegação e visualização de playlists.
 
 <h2>📦 Tecnologias usadas:</h2>
 <ul>
